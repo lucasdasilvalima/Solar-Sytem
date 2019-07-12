@@ -1,2 +1,1 @@
-# system_solar
-Computer graphics software
+# system_solar  # system_solar
